@@ -53,6 +53,14 @@ wp-config.php
 # Example plugin
 /wp-content/plugins/hello.php
 /wp-content/plugins/akismet
+/wp-content/plugins/google-site-kit
+/wp-content/plugins/bread-crumb-matching-any-theme-skin
+/wp-content/plugins/elementor
+/wp-content/plugins/contact-form-7
+/wp-content/plugins/google/analytics-for-Wordpress
+/wp-content/plugins/wp-mail-smtp
+/wp-content/plugins/header-footer-elementor
+
 
 # Uploads
 /wp-content/uploads/
