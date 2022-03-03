@@ -49,6 +49,11 @@ wp-config.php
 
 # Example themes
 /wp-content/themes/twenty*/
+/wp-content/themes/hexa/
+/wp-content/themes/hexa-child-org/
+/wp-content/themes/twentytwentyone/
+/wp-content/themes/twentytwentytwo/
+/wp-content/themes/astra/
 
 # Example plugin
 /wp-content/plugins/hello.php
@@ -57,7 +62,7 @@ wp-config.php
 /wp-content/plugins/bread-crumb-matching-any-theme-skin
 /wp-content/plugins/elementor
 /wp-content/plugins/contact-form-7
-/wp-content/plugins/google/analytics-for-Wordpress
+/wp-content/plugins/google-analytics-for-Wordpress
 /wp-content/plugins/wp-mail-smtp
 /wp-content/plugins/header-footer-elementor
 
