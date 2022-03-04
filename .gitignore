@@ -54,6 +54,7 @@ wp-config.php
 /wp-content/themes/twentytwentyone/
 /wp-content/themes/twentytwentytwo/
 /wp-content/themes/astra/
+/wp-content/themes/storefront
 
 # Example plugin
 /wp-content/plugins/hello.php
@@ -65,6 +66,7 @@ wp-config.php
 /wp-content/plugins/google-analytics-for-Wordpress
 /wp-content/plugins/wp-mail-smtp
 /wp-content/plugins/header-footer-elementor
+/wp-content/plugins/woocommerce
 
 
 # Uploads
